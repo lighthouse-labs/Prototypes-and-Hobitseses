@@ -1,6 +1,6 @@
 
 // const HobitsesesPrototype = {};
-func(hairyness = 8, haveRing = false, home = 'worster shire') {
+function Hobitseses(hairyness = 8, haveRing = false, home = 'worster shire') {
   // this = {};
   this.home = home;
   this.hairyness = hairyness;
